@@ -16,7 +16,8 @@ body {
 }
 
 .stopwatch {
-  background-color: rgba(0, 0, 0, 0.9);
+  /* background-color: rgba(0, 0, 0, 0.9); */
+  background-color: lightskyblue;
   padding: 20px 24px;
   border-radius: 10px;
 }
